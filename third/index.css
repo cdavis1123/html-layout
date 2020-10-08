@@ -1,0 +1,56 @@
+
+body {
+	margin:0;
+	padding:0;
+}
+
+
+
+.header-box {
+	width: 100%;
+	height: 50px;
+	padding:10px;
+	background-color: #D8D8D8;
+	
+}
+
+.top-box{
+	background-color:#4A90E2;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	
+}
+
+.text-box  {
+	width: 100%;
+	height: 200px;
+	margin: 25px 25px 25px 0;
+	
+}
+p {
+	text-align: center;
+}
+
+.stripe{
+	width: 100%;
+	height: 50px;
+
+}
+
+#first {
+	background-color:  #4A90E2;
+}
+
+#second {
+	background-color: #50E3C2;
+}
+
+#third {
+	background-color: #B8E986;
+}
+
+#fourth {
+  background-color: #F8E71C;
+  
+}
